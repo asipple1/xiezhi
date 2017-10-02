@@ -12,8 +12,8 @@ export default new Router({
   routes: [
     {
       path: '/',
-      name: 'Hello',
-      component: Hello
+      name: 'Gify',
+      component: Gify
     },
     {
       path: '/about',
@@ -26,9 +26,9 @@ export default new Router({
       component: Coins
     },
     {
-      path: '/gify',
-      name: 'Gify',
-      component: Gify
+      path: '/hello',
+      name: 'Hello',
+      component: Hello
     },
     {
       path: '/blog',
