@@ -1,0 +1,11 @@
+{
+  "blog": [
+    {
+      "id": "1",
+      "title": "First Blog",
+      "teaser": "This is the start of something amazing",
+      "image_path": "",
+      "body": ""
+    }
+  ]
+}
